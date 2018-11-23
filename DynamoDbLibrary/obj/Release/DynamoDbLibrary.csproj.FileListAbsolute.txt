@@ -1,0 +1,9 @@
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\bin\Release\DynamoDbLibrary.dll
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\bin\Release\DynamoDbLibrary.pdb
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\bin\Release\AWSSDK.dll
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\bin\Release\AWSSDK.pdb
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\obj\Release\DynamoDbLibrary.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\obj\Release\DynamoDbLibrary.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\obj\Release\DynamoDbLibrary.csproj.CopyComplete
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\obj\Release\DynamoDbLibrary.dll
+C:\Users\filip\Desktop\DynamoDbLibrary\DynamoDbLibrary\obj\Release\DynamoDbLibrary.pdb
